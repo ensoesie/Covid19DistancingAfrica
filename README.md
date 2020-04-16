@@ -3,7 +3,10 @@
 We are tracking social distancing policies that have been implemented in African countries. Please let us know if you notice any issues with the data.  
 
 
-Citation:
+# Citation: 
+Olubusola Oladeji, Elaine O. Nsoesie. COVID-19 Distancing Policies Implemented in African Countries. Available at: https://github.com/ensoesie/Covid19DistancingAfrica. DOI:10.5281/zenodo.3755093
+
+
 
 
 

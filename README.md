@@ -11,7 +11,7 @@ Olubusola Oladeji, Elaine O. Nsoesie. COVID-19 Distancing Policies Implemented i
 
 
 
-
+Contact: Elaine Nsoesie, onelaine@bu.edu
 
 
 
